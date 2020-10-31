@@ -1,0 +1,7 @@
+List of commands: 
+ps: List all devices 
+rn: Run new device [rn DEVICE_NAME BEHAVIOUR_NAME COUNT] 
+rm: Remove device [rm DEVICE_ID] 
+ra: Remove all devices 
+cb: Change behaviour of device [BEHAVIOUR_NAME DEVICE_ID] 
+he: Show a list of all commands 

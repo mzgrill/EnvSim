@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pluginRESTContainer>
+    <behaviorNames>Behavior.class</behaviorNames>
+    <behaviorNames>Behavior.class</behaviorNames>
+    <deviceName>Device.class</deviceName>
+</pluginRESTContainer>
